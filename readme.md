@@ -1,7 +1,7 @@
 # 2013 Final Fantasy VI Character Myers-Briggs Type Indicators
 
 # Description
-In 2013, some friends and I were writing a video game blog called "DeltaAttack" and I was weaving in my interest in data science and machine learning.
+In 2013, some friends and I were writing a video game blog called "DeltaAttack" and I was weaving in my interest in data science and machine learning. I was also very interested in Myers Briggs, though today I'm much more skeptical of any merits the model may have.
 
 At the time, the statistical programming language R was having its moment and although there were no R packages that could classify text into Myers-Briggs type indicators, I did find a web api that as of 2023-11-06, still operates. 
 
