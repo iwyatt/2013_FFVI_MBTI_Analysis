@@ -9,4 +9,4 @@ The code I put here was a bit hacked together to scrape a gamefaqs text document
 
 It was a fun project but could have been done even with simple curl commands up until I put the graphic together. But the point was to learn R, write for the game blog, and have some fun learning about the personalities of the characters from my favorite Final Fantasy game. 
 
-![Final Fantasy VI Infographic](2014.01.13 1548 ffvimbti_infographic.png)
+![Final Fantasy VI Infographic](https://github.com/iwyatt/2013_FFVI_MBTI_Analysis/blob/main/2014.01.13%201548%20ffvimbti_infographic.png)
