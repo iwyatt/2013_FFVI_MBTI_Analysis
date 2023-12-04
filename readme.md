@@ -1,5 +1,7 @@
 # 2013 Final Fantasy VI Character Myers-Briggs Type Indicators
 
+> See the Blog Post: https://www.isaacwyatt.com/posts/2023-11-06/
+
 # Description
 In 2013, some friends and I were writing a video game blog called "DeltaAttack" and I was weaving in my interest in data science and machine learning. I was also very interested in Myers Briggs, though today I'm much more skeptical of any merits the model may have.
 
